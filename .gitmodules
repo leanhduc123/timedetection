@@ -1,0 +1,3 @@
+[submodule "timedetection-be"]
+	path = timedetection-be
+	url = https://github.com/leanhduc123/timedetection-be.git
